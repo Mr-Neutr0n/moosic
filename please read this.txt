@@ -1,0 +1,7 @@
+Hi this is a personal project made by me :)
+To add more songs look into the "music-list" file in the "js" folder
+Enjoy <3
+
+
+
+-Harikrishna KP
